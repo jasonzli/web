@@ -28,7 +28,7 @@
 * [Day 1](Day_01) – 7/29 – Intros, What is the internet?
 * [Day 2](Day_02) – 7/30 – Github fo version tracking, collaboration and publishing.
 * [Day 3](Day_03) – 7/31 – HTML Basics: Hypertext and text based structures
-* [Day [Day 10](Day_11)4](Day_04) – 8/01 – Styling the web 1: CSS Layout and Positioning
+* [Day 4](Day_04) – 8/01 – Styling the web 1: CSS Layout and Positioning
 * [Day 5](Day_05) – 8/02 – Styling the web 2: CSS more advanced
 * [Day 6](Day_06) – 8/05 – Typography for the web
 * [Day 7](Day_07) – 8/06 – Media types
