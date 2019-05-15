@@ -1,27 +1,34 @@
 ## Bootcamp Web 2019
-## Day 4: CSS Basics
+## Day 7: Styling the web 2: CSS more advanced
+
 ---
-
 #### Topics covered:
+* Classes and Ids
+* Z-index
+* Color
+* Transform
+* Animation
 
-* Review Homework 
-* Introduction to CSS 
-* Box-model, introduction to different units, positioning 
-* In class exercise of styling yesterdays story 
+
+---
+#### Lesson plan:
+* 4:00-4:15pm A recap of CSS Lesson 1 and an introduction to more references, time for downloading code examples
+* 4:15-4:30pm Lecture on more advanced tags  
+* 4:45-5:15pm Live coding
+* 5:15-5:45pm In class activity
+* 5:45-6:00pm Homework assignment
 
 ---
 #### Activity:
-* Slide: TBD
-* Start to style the story they created yesterday 
+Recreate a poster with CSS tags
+
 ---
-
 #### Reading or Tutorial:
-
-* https://www.w3schools.com/css/
 * https://www.codecademy.com/learn/learn-css
-* https://developer.mozilla.org/en-US/docs/Web/CSS
-* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+* https://www.w3schools.com/css/css3_animations.asp
+* https://tympanus.net/codrops/css_reference/
+* http://learnlayout.com/
+
 ---
 #### Homework:
-
-Style story you created yesterday 
+Continue working on the poster and finish readings on typography
