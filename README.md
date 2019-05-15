@@ -30,11 +30,11 @@
 * [Day 3](Day_03) – 7/31 – HTML Basics: Hypertext and text based structures
 * [Day 4](Day_04) – 8/01 – Media types: Images, videos.
 * Day 5 – 8/02 – Reflective Friday
-* [Day 6](Day_06) – 8/05 – Typography for the web
-* [Day 7](Day_07) – 8/06 – Media types
-* [Day 8](Day_08) – 8/07 – Wireframes, sitemaps and user flows
+* [Day 6](Day_06) – 8/05 – Css Basics 1
+* [Day 7](Day_07) – 8/06 – Css 2
+* [Day 8](Day_08) – 8/07 – Typography for the web
 * [Day 9](Day_09) – 8/08 – Responsive web design
-* Day 10 – 8/09 – Reflective Friday
+* Day 10 – 8/09 – Reflective Friday, Wireframes
 * [Day 11](Day_11) – 8/12 – Javascript for the web 1: basics
 * [Day 12](Day_12) – 8/13 – Javascript for the web 2: events
 * [Day 13](Day_13) – 8/14 – Javascript for the web 3: input, json, api

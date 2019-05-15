@@ -1,18 +1,18 @@
 ## Bootcamp Web 2019
-## Day 4: CSS Basics
+## Day 6: CSS Basics
 ---
 
 #### Topics covered:
 
-* Review Homework 
-* Introduction to CSS 
-* Box-model, introduction to different units, positioning 
-* In class exercise of styling yesterdays story 
+* Review Homework
+* Introduction to CSS
+* Box-model, introduction to different units, positioning
+* In class exercise of styling yesterdays story
 
 ---
 #### Activity:
 * Slide: TBD
-* Start to style the story they created yesterday 
+* Start to style the story they created yesterday
 ---
 
 #### Reading or Tutorial:
@@ -24,4 +24,4 @@
 ---
 #### Homework:
 
-Style story you created yesterday 
+Style story you created yesterday
