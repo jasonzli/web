@@ -23,7 +23,7 @@
 * Ability to integrate a variety of media and data sources
 * Understanding and experience of one frontend framework
 ---
-
+[a relative link](Day_01)
 #### Weekly Schedule:
 * Day 1 – 7/29 – Intros, What is the internet?
 * Day 2 – 7/30 – Github fo version tracking, collaboration and publishing.
