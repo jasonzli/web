@@ -2,7 +2,7 @@
 ## Bootcamp Web 2019
 
 ---
-#### Teaching Fellows: 
+#### Teaching Fellows:
 * Zinah Bazarbashi
 * Shirley Leung
 * Adam Moore
@@ -15,7 +15,7 @@
 * Richard The
 
 ---
-#### Learning Outcomes: 
+#### Learning Outcomes:
 * Understanding of the web as a creative medium
 * Critical understanding of the underlying protocols and systems that make the internet
 * Knowledge of github as a platform for version tracking, collaboration and publishing
@@ -29,14 +29,14 @@
 * [Day 2](Day_02) – 7/30 – Github fo version tracking, collaboration and publishing.
 * [Day 3](Day_03) – 7/31 – HTML Basics: Hypertext and text based structures
 * [Day 4](Day_04) – 8/01 – Media types: Images, videos.
-* [Day 5](Day_05) – 8/02 – Reflective Friday
+* Day 5 – 8/02 – Reflective Friday
 * [Day 6](Day_06) – 8/05 – Typography for the web
 * [Day 7](Day_07) – 8/06 – Media types
 * [Day 8](Day_08) – 8/07 – Wireframes, sitemaps and user flows
 * [Day 9](Day_09) – 8/08 – Responsive web design
-* [Day 10](Day_10) – 8/09 – Javascript for the web 1: basics
-* [Day 11](Day_11) – 8/12 – Javascript for the web 2: events
-* [Day 12](Day_12) – 8/13 – Javascript for the web 3
-* [Day 13](Day_13) – 8/14 – Framework frontend 01: jquery
-* [Day 14](Day_14) – 8/15 – Framework frontend 02: jquery
+* Day 10 – 8/09 – Reflective Friday
+* [Day 11](Day_11) – 8/12 – Javascript for the web 1: basics
+* [Day 12](Day_12) – 8/13 – Javascript for the web 2: events
+* [Day 13](Day_13) – 8/14 – Javascript for the web 3: input, json, api
+* [Day 14](Day_14) – 8/15 – Javascript libraries 2: introduction & jquery
 * Day 15 – 8/16 – Final
