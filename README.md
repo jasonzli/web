@@ -35,8 +35,8 @@
 * [Day 8](Day_08) – 8/07 – Typography for the web
 * [Day 9](Day_09) – 8/08 – Responsive web design
 * Day 10 – 8/09 – Reflective Friday, Wireframes
-* [Day 11](Day_11) – 8/12 – Javascript for the web 1: basics
+* Day 11 – 8/12 – Javascript for the web 1: basics
 * [Day 12](Day_12) – 8/13 – Javascript for the web 2: events
-* [Day 13](Day_13) – 8/14 – Javascript for the web 3: input, json, api
+* Day 13 – 8/14 – Javascript for the web 3: input, json, api
 * [Day 14](Day_14) – 8/15 – Javascript libraries 2: introduction & jquery
 * Day 15 – 8/16 – Final
