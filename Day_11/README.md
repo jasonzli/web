@@ -1,6 +1,6 @@
 # Bootcamp 2019
 
-## Day 10: Introduction to JavaScript
+## Day 11: Introduction to JavaScript
 
 
 ---
