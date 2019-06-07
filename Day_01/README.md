@@ -29,3 +29,6 @@ Get to know all students. Student renactment of TCP/IP protocols. Check installa
 ---
 #### Homework:
 Register for github.
+---
+#### Link to Slides:
+* https://docs.google.com/presentation/d/1NBNQ6dDmbqv6gXxbsfQ5BRUBmLMiwGm4_wF0vJGchCo/edit?usp=sharing
