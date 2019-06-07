@@ -37,3 +37,6 @@
 * https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
 * https://www.w3schools.com/html/html_images.asp
 
+#### Link to Slides:
+* https://docs.google.com/presentation/d/1NBNQ6dDmbqv6gXxbsfQ5BRUBmLMiwGm4_wF0vJGchCo/edit?usp=sharing
+
