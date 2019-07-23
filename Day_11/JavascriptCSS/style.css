@@ -1,0 +1,70 @@
+*{
+
+}
+
+body{
+    
+}
+
+.header{
+    
+}
+
+
+.menu-toggle{
+    
+}
+
+.menu-toggle div{
+    
+}
+
+.menu-toggle .one,
+.menu-toggle .two{
+   
+}
+
+
+/************* Style and animate the nav overlay ***********************/
+.main-nav-list::before,
+.main-nav-list::after{
+    
+}
+
+.main-nav-list::before{
+  
+}
+.main-nav-list::after{
+
+}
+
+.main-nav-list ul{
+    
+}
+
+.main-nav-list a{
+
+}
+
+
+/************* Style the nav elements when active. ***********************/
+.header.active h1{
+    
+}
+
+.menu-toggle.active .one{
+    
+}
+
+.menu-toggle.active .two{
+   
+}
+
+.menu-toggle.active .three{
+    
+}
+
+.main-nav-list.active::before,
+.main-nav-list.active::after{
+   
+}
