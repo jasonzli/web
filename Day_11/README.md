@@ -2,6 +2,8 @@
 
 ## Day 11: Introduction to JavaScript
 
+#### Slides
+https://docs.google.com/presentation/d/1bIU3-hT1_zt9Z-aDluN-hO1R1HvHCG1hUmeO9zfufk0/edit?usp=sharing
 
 ---
 #### Topics Covered
