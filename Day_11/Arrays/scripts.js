@@ -9,7 +9,7 @@ var first = groceryList[0];
 var second = groceryList[1];
 
 //Loop over Objects in array
-for (index = 0; index >= groceryList.length; index--) {
+for (index = 0; index < groceryList.length; index++) {
 	console.log(groceryList[index]);
 }
 
